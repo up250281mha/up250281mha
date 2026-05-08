@@ -1,5 +1,10 @@
-###### Hola a todos!!! 👋
+#### *Hola a todos!!!* 👋
 
+-Idiomas que hablo
+
+            -Español
+
+            -Inglés
 <!--
 **up250281mha/up250281mha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
