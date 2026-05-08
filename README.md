@@ -1,10 +1,10 @@
-#### *Hola a todos!!!* 👋
+## *Hola a todos!!!* ⚡
 
--Idiomas que hablo
+Me desenvuelvo muy bien en muchos climas laborales, Estudio en la carrera de Tecnologías de la Información en la Universidad Politécnica de Aguascalientes.
 
-            -Español
+**Correo**: up250281@alumnos.upa.edu.mx
 
-            -Inglés
+**Contacto**: +52 449-263-7321
 <!--
 **up250281mha/up250281mha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
