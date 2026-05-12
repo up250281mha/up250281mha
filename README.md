@@ -2,6 +2,8 @@
 
 Me desenvuelvo muy bien en muchos climas laborales, Estudio en la carrera de Tecnologías de la Información en la Universidad Politécnica de Aguascalientes.
 
+📫 *Pueden encontrarme como:*
+
 **Correo**: up250281@alumnos.upa.edu.mx
 
 **Contacto**: +52 449-263-7321
